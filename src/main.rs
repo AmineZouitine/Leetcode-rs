@@ -1,4 +1,7 @@
+pub mod length_of_longest_substring;
 pub mod longest_common_prefix;
+pub mod longest_palindrome;
+pub mod max_area;
 pub mod merge_two_lists;
 pub mod palindrom;
 pub mod plus_one;
